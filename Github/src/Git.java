@@ -50,7 +50,7 @@ public class Git {
 		Saluti.addSelectionListener(new SelectionAdapter() {
 			@Override
 			public void widgetSelected(SelectionEvent e) {
-				MessageDialog.openInformation(shell, "title", "Ciao Mondo");
+				MessageDialog.openInformation(shell, "title", "Good Bye Cruel World");
 				
 			}
 		});
